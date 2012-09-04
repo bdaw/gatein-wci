@@ -79,6 +79,8 @@
       <dependency>
          <groupId>org.gatein.common</groupId>
          <artifactId>common-mc</artifactId>
+         <!--Older version to make it compile for now as this component is removed-->
+         <version>2.0.4-GA</version>
          <scope>test</scope>
       </dependency>
       <dependency>
